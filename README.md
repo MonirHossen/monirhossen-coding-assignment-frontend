@@ -1,6 +1,10 @@
 # product-app
 
+
 ## Project setup
+
+### After the clone project please go to the master branch because I pushed the project in master branch
+
 ```
 npm install
 ```
